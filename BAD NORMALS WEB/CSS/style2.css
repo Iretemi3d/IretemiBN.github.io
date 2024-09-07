@@ -1,0 +1,95 @@
+.blacksmithfont{
+    font-size: 37px;
+    font-family: 'The Blacksmith';
+    padding-top: 0px;
+    padding-bottom: 100px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+hr{
+    height: 1px; 
+    border-style: dashed;
+    
+}
+
+
+#announcements table{
+    margin: auto;
+    border-collapse: collapse;
+    border: 1px solid #070d17;
+    
+    }
+    
+ 
+
+    
+    
+    #announcements td,th {
+        border-left: 170px solid #070d17;
+        border-right: 170px solid #070d17;
+        background-color: #0b1527;
+        width: 20px;
+        
+    }
+    
+  .date{
+    font-size: 11px;
+    font-family: 'Times New Roman', Times, serif;
+    
+    }
+
+    #heada th{
+        padding: 90px 50px 5px 50px;
+    }
+
+
+    .date  td{
+        padding-bottom: 15px;
+    }
+
+
+    /* width */
+::-webkit-scrollbar {
+    width: 15px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #070d17;
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #0b1525;
+  }
+  
+ 
+  #progress{
+    width: 1300px;
+    
+  }
+  
+ 
+
+  .countd th {
+    font-family: 'Seven Segment', sans-serif;
+    font-size: 150px;
+    border-left: 0px solid #070d17;
+    border-right: 0px solid #070d17;
+    background-color: transparent;
+    width: 0px;
+    padding: 90px 30px 30px 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
